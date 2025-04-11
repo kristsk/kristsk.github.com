@@ -1,0 +1,56 @@
+#EXTM3U
+
+#EXTGRP:PLUS.FM
+#EXTINF:0,plusfm - Electro Pop TripHop Radio - Paris France - www.plusfm.net
+http://radio5.pro-fhi.net:9041/1
+
+#EXTGRP:DNBRADIO
+#EXTINF:0,#DNBRADIO - Main Channel [320K MP3 US] - hosted by dnbradio.com
+https://azura.drmnbss.org/listen/dnbradio/radio.mp3
+#EXTINF:0,#DNBRADIO - Main Channel [320K AAC US] - hosted by dnbradio.com
+https://azrelay.drmnbss.org/listen/dnbradio/radio.aac
+#EXTINF:0,#DNBRADIO - Main Channel [320K MP3 NL Relay] - hosted by Drastic
+https://dnbradio.nl/dnbradio_main.mp3
+#EXTINF:0,#DNBRADIO - Plush Recordings Channel [320K MP3 US] - hosted by dnbradio.com
+https://azura.drmnbss.org/listen/plushrecs/radio.mp3
+#EXTINF:0,#DNBRADIO - Section 8 Recordings Channel [128K MP3 US] - hosted by dnbradio.com
+https://azura.drmnbss.org/listen/section8recs/radio.mp3
+#EXTINF:0,#DNBRADIO - Darkstep Channel [128K MP3 US] - hosted by dnbradio.com
+https://azura.drmnbss.org/listen/darkstep/radio.mp3
+
+#EXTGRP:BASSDRIVE.NET
+http://ice.bassdrive.net:80/stream32
+
+#EXTGRP:SOMA.FM - Indie Pop Rocks!
+#EXTINF:0,SomaFM: Indie Pop Rocks! (#1): New and classic favorite indie pop tracks.
+http://ice2.somafm.com/indiepop-128-aac
+#EXTINF:0,SomaFM: Indie Pop Rocks! (#2): New and classic favorite indie pop tracks.
+http://ice1.somafm.com/indiepop-128-aac
+#EXTINF:0,SomaFM: Indie Pop Rocks! (#3): New and classic favorite indie pop tracks.
+http://ice6.somafm.com/indiepop-128-aac
+#EXTINF:0,SomaFM: Indie Pop Rocks! (#4): New and classic favorite indie pop tracks.
+http://ice4.somafm.com/indiepop-128-aac
+#EXTINF:0,SomaFM: Indie Pop Rocks! (#5): New and classic favorite indie pop tracks.
+http://ice5.somafm.com/indiepop-128-aac
+#EXTINF:0,SomaFM: Indie Pop Rocks! (#6): New and classic favorite indie pop tracks.
+http://ice3.somafm.com/indiepop-128-aac
+
+#EXTGRP:SOMA.FM - LUSH
+#EXTINF:0,SomaFM: Lush (#1): Sensuous and mellow female vocals, many with an electronic influence.
+http://ice2.somafm.com/lush-128-aac
+#EXTINF:0,SomaFM: Lush (#2): Sensuous and mellow female vocals, many with an electronic influence.
+http://ice1.somafm.com/lush-128-aac
+#EXTINF:0,SomaFM: Lush (#3): Sensuous and mellow female vocals, many with an electronic influence.
+http://ice6.somafm.com/lush-128-aac
+#EXTINF:0,SomaFM: Lush (#4): Sensuous and mellow female vocals, many with an electronic influence.
+http://ice4.somafm.com/lush-128-aac
+#EXTINF:0,SomaFM: Lush (#5): Sensuous and mellow female vocals, many with an electronic influence.
+http://ice5.somafm.com/lush-128-aac
+#EXTINF:0,SomaFM: Lush (#6): Sensuous and mellow female vocals, many with an electronic influence.
+http://ice3.somafm.com/lush-128-aac
+
+#EXTGRP:JUNGLETRAIN.NET
+http://stream6.jungletrain.net:8000/
+http://stream3.jungletrain.net:8000/
+http://stream5.jungletrain.net:8000/
+http://stream1.jungletrain.net:8000/
